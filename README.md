@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/abidama/leetcode/tree/master/0198-house-robber) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abidama/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/abidama/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/abidama/leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
