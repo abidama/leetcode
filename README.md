@@ -46,4 +46,5 @@
 | [1182-game-play-analysis-iv](https://github.com/abidama/leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/abidama/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/abidama/leetcode/tree/master/1317-monthly-transactions-i) |
+| [1877-find-followers-count](https://github.com/abidama/leetcode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
