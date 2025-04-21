@@ -42,6 +42,7 @@
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/abidama/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1182-game-play-analysis-iv](https://github.com/abidama/leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/abidama/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/abidama/leetcode/tree/master/1317-monthly-transactions-i) |
